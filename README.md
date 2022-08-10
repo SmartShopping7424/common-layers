@@ -1,2 +1,1 @@
-# common-layers
-Common layers for all lambda functions
+# Serverless Framework for Layers
